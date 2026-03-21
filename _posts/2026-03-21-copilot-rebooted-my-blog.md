@@ -10,7 +10,7 @@ It's 2026 and I wanted to reboot my blog. The problem was my blog has been dead 
 with the following prompt and outline.  I think the voice is a litte bit cheesy,
 your slop detector will trigger a little bit on the words.  I’ll try a different
 model next time.  However, the content is representative of the subject I wanted
-to cover with some added history I wouldn't have thought to write about.
+to cover. Copilot added some history I wouldn't have thought to write about.
 
 ```
 Agent:
