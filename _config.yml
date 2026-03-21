@@ -23,6 +23,9 @@ defaults:
     values:
       layout: "page"
 
+plugins:
+  - jekyll-sitemap
+
 exclude:
   - Gemfile
   - Gemfile.lock
