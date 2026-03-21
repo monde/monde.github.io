@@ -8,7 +8,7 @@ It's 2026 and I wanted to reboot my blog. The problem was my blog has been dead 
 
 *NOTE:* Real words from Mike: Copilot w/ Claude Opus 4.6 wrote this blog post
 with the following prompt and outline.  I think the voice is a litte bit cheesy,
-your slop detector will trigger a little bit on the words.  I’ll try a different
+your slop detector will trigger a somewhat on the words.  I’ll try a different
 model next time.  However, the content is representative of the subject I wanted
 to cover. Copilot added some history I wouldn't have thought to write about.
 
