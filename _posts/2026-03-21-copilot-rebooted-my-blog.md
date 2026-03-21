@@ -7,10 +7,10 @@ date: 2026-03-21
 It's 2026 and I wanted to reboot my blog. The problem was my blog has been dead for over a decade. My last post was in January 2013 — a quick write up about distributing scripts as gist micro-gems. Since then, silence. But the content was still out there on the Internet Archive, and I figured it was time to bring it home.
 
 *NOTE:* Real words from Mike: Copilot w/ Claude Opus 4.6 wrote this blog post
-with the following prompt and outline. I think the voice is a litte bit cheesy
-... I'll try a different model next time. Your slop detector will trigger a
-little bit on this reading. But the content is representative of the subject I
-cover with some added history I wouldn't have thought to write about.
+with the following prompt and outline.  I think the voice is a litte bit cheesy,
+your slop detector will trigger a little bit on the words.  I’ll try a different
+model next time.  However, the content is representative of the subject I wanted
+cover to with some added history I wouldn't have thought to write about.
 
 ```
 Agent:
