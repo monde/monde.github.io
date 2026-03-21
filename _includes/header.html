@@ -1,0 +1,19 @@
+<header>
+  <figure class="logo medium">
+    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+  </figure>
+  <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+  <span>{{ site.description }}</span>
+  {% include nav.html %}
+  <ul>
+    {% for item in site.data.navigation.social %}
+      <li>
+        {% if item.link %}
+          <a href="{{ item.link.url }}">{{ item.link.title }}</a>
+        {% elsif item.image %}
+          <img style="{{ item.image.style }}" src="{{ item.image.href }}" alt="{{ item.image.alt }}">
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</header>

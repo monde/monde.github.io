@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.title != "index" %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <link href="{{ '/assets/style.css' | relative_url }}" media="screen" rel="stylesheet" type="text/css" />
+  <meta name="author" content="Mike Mondragon">
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,900" rel="stylesheet" type="text/css">
+</head>
+
+<body class="posts index">
+  {% include header.html %}
+
+  <div id="container">
+    <div id="content">
+      {{ content }}
+    </div>
+    {% include footer.html %}
+  </div>
+</body>
+</html>

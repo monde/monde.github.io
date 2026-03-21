@@ -1,0 +1,21 @@
+main:
+  - title: Home
+    url: /
+  - title: Blog
+    url: /blog/
+  - title: Projects 
+    url: /projects/
+  - title: About
+    url: /about/
+
+social:
+  - image: 
+      style: "border: 0;"
+      alt: "monde"
+      href: "https://avatars2.githubusercontent.com/u/201?s=60&v=4"
+  - link:
+      title: "monde - gh"
+      url: https://github.com/monde
+  - link:
+      title: "me - linkedin"
+      url: https://linkedin.com/in/mikemondragon
