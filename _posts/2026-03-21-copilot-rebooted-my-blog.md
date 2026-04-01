@@ -7,8 +7,8 @@ date: 2026-03-21
 It's 2026 and I wanted to reboot my blog. The problem was my blog has been dead for over a decade. My last post was in January 2013 — a quick write up about distributing scripts as gist micro-gems. Since then, silence. But the content was still out there on the Internet Archive, and I figured it was time to bring it home.
 
 *NOTE:* Real words from Mike: Copilot w/ Claude Opus 4.6 wrote this blog post
-with the following prompt and outline.  I think the voice is a litte bit cheesy,
-your slop detector will trigger a somewhat on the words.  I’ll try a different
+with the following prompt and outline.  I think the voice is a little bit cheesy,
+your slop detector will trigger somewhat on the words.  I’ll try a different
 model next time.  However, the content is representative of the subject I wanted
 to cover. Copilot added some history I wouldn't have thought to write about.
 
@@ -84,7 +84,7 @@ what is common page structure and navigation for a jekyll site with many pages
 Agent:
 Apply all of your recommendations and examples into the current project.
 I also would like two example blog posts that have the following structure:
-their URIs are "/blog/{YYYY}/{MM}/{DD}/{slug}" wehre the URI path is year, month, day, and the slug for the page from the blog post's title.
+their URIs are "/blog/{YYYY}/{MM}/{DD}/{slug}" where the URI path is year, month, day, and the slug for the page from the blog post's title.
 Add two example blog posts one on the path "/2003/12/01/hello" with a short bit of lorem ipsum content. And the other with the path "/2004/09/05/world" in the same format as the hello blog post.
 
 Agent:
@@ -104,10 +104,10 @@ to find my old blog posts
 
 - Each file found is an old blog post.
 - The path to file has a date embedded into it YYYY/MM/DD and then the slug for the page.
-- Turn each of this pages into a jekyll github formatted markdown  file with meta data "title" which is the <title> from the index.html and the "data" meta data is the date from the from the original post
+- Turn each of this pages into a jekyll github formatted markdown  file with meta data "title" which is the <title> from the index.html and the "data" meta data is the date from the original post
 - Some of the input index.html has comments from a blogging platform, we want those scrubbed out.
 
-Tell me if you think this is a good plan and do you have any other recomendations or modifications to the plan.
+Tell me if you think this is a good plan and do you have any other recommendations or modifications to the plan.
 
 Agent:
 Run your plan
@@ -131,7 +131,7 @@ Run your plan
 
 Agent:
 - Take the content from the current about.md and call it an old about page.
-- Revert to the pervious version of the about.md
+- Revert to the previous version of the about.md
 - Remove "Carp" and "ThinkPad T42" links from the left hand navigation
 - Add links to the old about page, "Carp" and "ThinkPad T42", in the current about.md
 
