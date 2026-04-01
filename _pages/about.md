@@ -11,5 +11,4 @@ Find me on [GitHub](https://github.com/monde) and [LinkedIn](https://linkedin.co
 ### More
 
 - [Old About](/old-about/) — bio and photos from the plasti.cx era
-- [Carp](/carp/) — bowfishing for carp on the Snake River
 - [ThinkPad T42](/tp-t42/) — Linux on an IBM ThinkPad T42
