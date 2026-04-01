@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "purgecss": "purgecss --css assets/style.css --content '_site/**/*.html' --output assets/style.purged.css",
-    "purgecss:diff": "node scripts/purgecss-diff.js",
-    "minify": "cleancss -o assets/style.min.css assets/style.css",
-    "minify:purged": "cleancss -o assets/style.min.css assets/style.purged.css"
+    "expand": "cleancss --format beautify -o assets/style.css assets/style.css",
+    "purgecss": "purgecss --css assets/style.css --content '_site/**/*.html' --output assets/style.css",
+    "minify": "cleancss -o assets/style.css assets/style.css",
+    "purgecss:diff": "node scripts/purgecss-diff.js"
   },
   "devDependencies": {
     "clean-css-cli": "^5.0.0",
