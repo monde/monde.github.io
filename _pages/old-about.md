@@ -13,10 +13,3 @@ Front side slash, Rotary Skateboard Park, Strawberry Hill, Bainbridge Island, Wa
 
 [![](/assets/images/mike-fs-bi-09-10-2006-small.png)](/assets/images/mike-fs-bi-09-10-2006.png)
 
-Send me mail:
-
-m i k e m o n d r a g on
-
-@
-
-gmail
